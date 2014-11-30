@@ -44,7 +44,9 @@ Settings.xml to include Hadoop Class paths inside Maven
 {"student_id":3,"subject_id":86,"marks":50}
 {"student_id":4,"subject_id":55,"marks":42}
 {"student_id":1,"subject_id":30,"marks":21}
-----------------------------------Data Preparation from Avro Tool ------------------------------
+
+
+--------Data Preparation from Avro Tool ------------------------------
 AvroTools folder contain jar and procedure to generate AvroFile from Json file
 
 Command to Generate Avro from Json
