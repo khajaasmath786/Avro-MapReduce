@@ -1,0 +1,15 @@
+{
+  "type" : "record",
+  "name" : "student_marks",
+  "namespace" : "com.cts.avro",
+  "fields" : [ {
+  "name" : "student_id",
+  "type" : "int"
+  }, {
+  "name" : "subject_id",
+  "type" : "int"
+  }, {
+  "name" : "marks",
+  "type" : "int"
+  } ]
+}
