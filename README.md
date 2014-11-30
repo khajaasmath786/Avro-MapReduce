@@ -47,6 +47,8 @@ Settings.xml to include Hadoop Class paths inside Maven
 
 
 --------Data Preparation from Avro Tool ------------------------------
+
+
 AvroTools folder contain jar and procedure to generate AvroFile from Json file
 
 Command to Generate Avro from Json
